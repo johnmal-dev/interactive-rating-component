@@ -102,12 +102,12 @@ h1 {
   cursor: pointer;
 }
 
-.rating-btn.active {
+.rating-btn:hover {
   background-color: var(--light-grey);
   color: white;
 }
 
-.rating-btn:hover {
+.rating-btn.active {
   background-color: var(--orange);
   color: white;
 }

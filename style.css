@@ -212,4 +212,22 @@ h1 {
   .submit-btn {
     margin-top: 2rem;
   }
+
+  .card-content-2 img {
+    height: 107px;
+    margin-bottom: .5rem;
+  }
+
+  .result {
+    width: 190px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .card-content-2 h2 {
+    margin-top: .7rem;
+    font-size: 1.85rem;
+  }
+
 }
